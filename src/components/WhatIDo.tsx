@@ -59,7 +59,7 @@ const WhatIDo = () => {
             </svg>
           </div>
           <div
-            className="what-content what-noTouch"
+            className="what-content what-noTouch what-content-active"
             ref={(el) => setRef(el, 0)}
           >
             <div className="what-border1">

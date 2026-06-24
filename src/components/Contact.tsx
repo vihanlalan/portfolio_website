@@ -19,13 +19,7 @@ const Contact = () => {
                 LinkedIn — vihan-lalan
               </a>
             </p>
-            <h4>Education</h4>
-            <p>
-              B.Tech Computer Engineering (Data Analytics), SVKM's Dwarkadas J. Sanghvi College of Engineering — 2024–Present
-            </p>
-            <p>
-              Applied Data Science Programme, WorldQuant University — 2025–Present
-            </p>
+
           </div>
           <div className="contact-box">
             <h4>Social</h4>

@@ -5,32 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
+    title: "Directional Prediction",
+    category: "ML Classifier for Finance",
+    tools: "LightGBM, SVM, OHLCV Features, Walk-Forward Validation",
     image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    link: "https://github.com/vihanlalan/stock_price_predictor",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    title: "Dynamic Portfolio",
+    category: "Risk-Constrained Rebalancing",
+    tools: "Mean-Variance, Risk-Parity, Momentum, CPPI",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    link: "https://github.com/vihanlalan/portfolio",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
+    title: "Adaptive Market Hypothesis",
+    category: "TBMD-AEH Implementation",
+    tools: "Python, Quantitative Indicators, Time-Series",
     image: "/images/broki.png",
-    link: "https://broki.in",
+    link: "https://github.com/vihanlalan/tbmd-aeh",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    title: "Verifiable AI",
+    category: "Blockchain-Assisted Federated Learning",
+    tools: "Smart Contracts, Distributed Systems, Python",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/vihanlalan/verifiable-ai",
   },
 ];
 

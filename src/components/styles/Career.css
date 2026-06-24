@@ -55,14 +55,17 @@
   display: flex;
   width: 40%;
   justify-content: space-between;
+  align-items: center;
   gap: 50px;
 }
 
 .career-info h3 {
-  font-size: 48px;
+  font-size: 26px;
   margin: 0;
   font-weight: 500;
-  line-height: 45px;
+  line-height: 30px;
+  text-align: right;
+  flex-shrink: 0;
 }
 
 .career-info h4 {
@@ -159,7 +162,7 @@
   }
 
   .career-info h3 {
-    font-size: 40px;
+    font-size: 22px;
   }
 
   .career-info-box p {
@@ -225,7 +228,7 @@
   }
 
   .career-info h3 {
-    font-size: 33px;
+    font-size: 18px;
   }
 
   .career-info-in,

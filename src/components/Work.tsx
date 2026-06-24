@@ -16,7 +16,7 @@ const projects = [
     category: "Risk-Constrained Rebalancing",
     tools: "Mean-Variance, Risk-Parity, Momentum, CPPI",
     image: "/images/whatsapp.png",
-    link: "https://github.com/vihanlalan/portfolio",
+    link: "https://github.com/vihanlalan/portfolio_rebalancing",
   },
   {
     title: "Adaptive Market Hypothesis",
@@ -26,10 +26,17 @@ const projects = [
     link: "https://github.com/vihanlalan/tbmd-aeh",
   },
   {
+    title: "Board Strategy Simulator",
+    category: "AI-Powered Boardroom Chatbot",
+    tools: "Llama 3.3 70B, Groq API, Node.js, Supabase, React",
+    image: "/images/orrdr.png",
+    link: "https://github.com/vihanlalan/ecell-chatbot",
+  },
+  {
     title: "Verifiable AI",
     category: "Blockchain-Assisted Federated Learning",
     tools: "Smart Contracts, Distributed Systems, Python",
-    image: "/images/orrdr.png",
+    image: "/images/preview1.png",
     link: "https://github.com/vihanlalan/verifiable-ai",
   },
 ];
